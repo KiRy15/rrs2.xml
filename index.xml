@@ -6,13 +6,13 @@
         <description>miblog</description>
         <language>es</language>
           <lastBuildDate>Sat, 23 Nov 2024 12:00:00 GMT</lastBuildDate>
-        <atom:link href="https://raw.githubusercontent.com/KiRy15/rrs.xml/main/xml.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom" />
+        <atom:link href="https://raw.githubusercontent.com/KiRy15/rrs2.xml/refs/heads/main/index.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom" />
     <item>
             <title>miblog1</title>
             <link>https://miblog.com/miblog1</link>
             <description>Descubre miblog1 .</description>
             <pubDate>Sat, 23 Nov 2024 10:00:00 GMT</pubDate>
-            <guid>numero-1</guid>
+            <guid>https://miblog.com/numero-1</guid>
         </item>
         
    <item>
@@ -20,7 +20,7 @@
             <link>https://miblog.com/miblog2</link>
             <description>Descubre miblog2 .</description>
             <pubDate>Sat, 23 Nov 2024 10:00:00 GMT</pubDate>
-            <guid>numero-2</guid>
+            <guid>https://miblog.com/numero-2</guid>
         </item>
 
 
@@ -29,7 +29,7 @@
             <link>https://miblog.com/miblog3</link>
             <description>Descubre miblog3 .</description>
             <pubDate>Sat, 23 Nov 2024 10:00:00 GMT</pubDate>
-            <guid>numero-3</guid>
+            <guid>https://miblog.com/numero-3</guid>
         </item>
 
         <item>
@@ -37,7 +37,7 @@
             <link>https://miblog.com/miblog4</link>
             <description>Descubre miblog4 .</description>
             <pubDate>Sat, 23 Nov 2024 10:00:00 GMT</pubDate>
-            <guid>numero-4</guid>
+            <guid>https://miblog.com/numero-4</guid>
         </item>
 
         <item>
@@ -45,7 +45,7 @@
             <link>https://miblog.com/miblog5</link>
             <description>Descubre miblog5 .</description>
             <pubDate>Sat, 23 Nov 2024 10:00:00 GMT</pubDate>
-            <guid>numero-5</guid>
+            <guid>https://miblog.com/numero-5</guid>
         </item>
     </channel>
 </rss>
